@@ -8,4 +8,5 @@ public class User {
 	private int Password;
 	private int E_Mail;
 	private int newvariable;
+	private int neww;
 }
