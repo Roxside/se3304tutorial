@@ -7,5 +7,5 @@ public class User {
 	private int Username;
 	private int Password;
 	private int E_Mail;
-
+	private int newvariable;
 }
